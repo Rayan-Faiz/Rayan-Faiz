@@ -1,6 +1,34 @@
-# 💫 About Me:
-🔭 I worked on network attack detection using machine learning and real-time performance monitoring systems.<br><br>👯 I’m looking to collaborate on cybersecurity projects, network security solutions, and machine learning applications for traffic analysis.<br><br>🤝 I’m looking for help with improving my network automation skills and optimizing machine learning models for threat detection.<br><br>🌱 I’m currently learning more about advanced network security, containerized environments, and Kubernetes.<br><br>💬 Ask me about web and app development, SDN networks, machine learning for attack detection, or JEE-based web apps.<br><br>⚡ Fun fact: I built a JEE web app to manage Scrum projects, integrating task tracking and project management tools!
+# 💻 **Welcome to My GitHub!**
 
+Hi! I'm Rayan Faiz — a passionate **cybersecurity enthusiast** and **software engineer** focused on building secure, innovative, and scalable systems. I'm currently seeking opportunities to grow my expertise in **penetration testing**, **threat detection**, and **secure system design**. 
+
+---
+
+## 🚀 **About Me**
+
+- 🎓 **Education**: Engineering in Computer Science and Networks  
+- 🌟 **Specialization**: Cybersecurity & Networking  
+- 🛡️ **Aspiring Cybersecurity Professional**: Skilled in penetration testing, intrusion detection systems, and secure application development.  
+- 🌐 **Interests**: Ethical hacking, machine learning, network and cloud security.  
+
+---
+
+## 🔧 **Skills**
+
+### 🔒 **Cybersecurity**  
+- Penetration Testing (Tools: Kali Linux, Metasploit, Nmap)  
+- IDS/IPS (Snort, Suricata)  
+- Attack Detection and Analysis (Machine Learning, SVM, Python)  
+- Network Security (Wireshark, SDN)  
+- Vulnerability Assessment  
+
+### 💻 **Technical**  
+- Programming: Python, JavaScript, HTML/CSS  
+- Networking: OpenFlow, SDN simulation with Mininet, Ryu Controller  
+- Frameworks: Flask, Agile Development  
+- Tools: Git, Linux Systems, Virtualization (VMware, VirtualBox)  
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayan_faiz_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayan-faiz-5rf/) 
@@ -18,4 +46,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rayan-faiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
