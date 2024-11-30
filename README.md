@@ -18,14 +18,14 @@ Hi! I'm Rayan Faiz — a passionate **cybersecurity enthusiast** and **software 
 ### 🔒 **Cybersecurity**  
 - Penetration Testing (Tools: Kali Linux, Metasploit, Nmap)  
 - IDS/IPS (Snort, Suricata)  
-- Attack Detection and Analysis (Machine Learning, SVM, Python)  
+- Attack Detection and Analysis (Machine Learning, SIEM tools)  
 - Network Security (Wireshark, SDN)  
 - Vulnerability Assessment  
 
 ### 💻 **Technical**  
 - Programming: Python, JavaScript, HTML/CSS  
-- Networking: OpenFlow, SDN simulation with Mininet, Ryu Controller  
-- Frameworks: Flask, Agile Development  
+- Networking: TCP/IP, OpenFlow, SDN simulation with Mininet, Ryu Controller  
+- Frameworks: ISO 27001, Agile Development  
 - Tools: Git, Linux Systems, Virtualization (VMware, VirtualBox)  
 
 ---
