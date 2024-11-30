@@ -30,6 +30,14 @@ Hi! I'm Rayan Faiz — a passionate **cybersecurity enthusiast** and **software 
 
 ---
 
+## 🎯 **Career Goals**
+
+- Gain expertise in **offensive security** through hands-on experience.  
+- Obtain certifications such as **OSCP** and **CEH** to further enhance my skill set.  
+- Collaborate with teams to design secure and resilient systems.  
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rayan_faiz_05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayan-faiz-5rf/) 
 
